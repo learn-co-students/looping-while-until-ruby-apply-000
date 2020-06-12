@@ -1,4 +1,4 @@
-require_relative "spec_helper"
+require_relative "spec_helper.rb"
 require_relative "../lib/until.rb"
 
 describe "#using_until" do
